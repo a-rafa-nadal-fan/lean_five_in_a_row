@@ -1,0 +1,17 @@
+﻿第三方组件与许可证
+
+raylib 5.5：Ramon Santamaria 和 raylib 贡献者，zlib 许可证。
+随包提供官方 Windows x64 raylib.dll。
+来源：https://github.com/raysan5/raylib/releases/tag/5.5
+许可证：licenses/raylib-zlib.txt
+
+Noto Sans SC：SIL Open Font License 1.1。
+随包字体为 450 字重的修改子集，家族名为 Gomoku UI。
+来源：https://github.com/google/fonts/tree/main/ofl/notosanssc
+许可证：licenses/NotoSansSC-OFL.txt
+
+Raylib.lean：Daniil Kisel，BSD 3-Clause 许可证。
+本游戏参考其窗口循环、FFI 包装及颜色编码方式，使用精简兼容绑定。
+来源：https://github.com/KislyjKisel/Raylib.lean
+参考提交：054884afbc8bc65e1df438db2b2ffdabcad427c8
+许可证：licenses/Raylib.lean-BSD.txt
